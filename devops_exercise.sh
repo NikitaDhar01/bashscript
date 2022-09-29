@@ -12,5 +12,5 @@ then
   echo An old version of Java installation found.
 elif ["$java_version" -ge 11]
 then
-  echo Java version 11 or greater installed successfully.
+  echo Java version 11 or greater installed successfully. testing aws sync here.
 fi
